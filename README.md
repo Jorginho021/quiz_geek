@@ -87,24 +87,6 @@ http://localhost/quiz_geek/
 
 ---
 
-## 🏗️ Estrutura do Projeto
-
-```
-quiz_geek/
-├── index.php              # Página inicial com animações
-├── quiz.php               # Página do quiz com 12 perguntas
-├── resultado.php          # Página de resultado personalizado
-├── apagar_cache.php       # Script PHP para deletar cookies
-├── style.css              # Estilos completos com animações
-├── README.md              # Este arquivo
-└── img/                   # Pasta para imagens dos perfis
-    ├── designer.svg
-    ├── backend.svg
-    ├── fullstack.svg
-    └── devops.svg
-```
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -118,8 +100,7 @@ quiz_geek/
 
 - **HTML5** - Estrutura semântica
 - **CSS3** - Estilos avançados com animações
-- **JavaScript Vanilla** - Interatividade sem dependências externas
-
+- 
 ### Recursos Especiais
 
 - **Animações CSS** - Flutuação de caveirinhas, órbita do título, pulsação
@@ -443,3 +424,4 @@ O **Skeleton Quiz** foi desenvolvido com foco em:
 - **Responsividade** - Funciona em qualquer dispositivo
 
 **Aproveite o Skeleton Quiz!** 💀✨
+
